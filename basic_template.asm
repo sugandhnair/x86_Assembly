@@ -7,4 +7,4 @@ main	PROC
 
 	ret
 main	endp
-end
+end	main
