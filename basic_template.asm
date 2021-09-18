@@ -3,7 +3,7 @@
 .code
 main	PROC
 	mov	eax,213
-	add eax,432
+	add 	eax,432
 
 	ret
 main	endp
