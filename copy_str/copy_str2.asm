@@ -19,5 +19,5 @@ inc esi
 loop LP
 
 ret
-copy_str endp
+start endp
 end
